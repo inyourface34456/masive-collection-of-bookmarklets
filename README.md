@@ -1,6 +1,6 @@
 # masive-collection-of-bookmarklets
 the biggest collection of bookmarklets you have ever seen
-## how to install all of theace at once
+## how to install all of the ookmarklets at once
 All you need to do is
 + download the html file
 + go to you in browser bookmark manager (try about:bookmark or about:bookmarks)
